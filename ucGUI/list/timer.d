@@ -1,0 +1,15 @@
+..\list\timer.o: ..\HARDWARE\TIMER\TIMER.c
+..\list\timer.o: ..\HARDWARE\TIMER\timer.h
+..\list\timer.o: ..\SYSTEM\sys\sys.h
+..\list\timer.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\list\timer.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\list\timer.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\list\timer.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\list\timer.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\list\timer.o: ..\HARDWARE\LED\led.h
+..\list\timer.o: ..\GUI\Core\gui.h
+..\list\timer.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\timer.o: ..\Config\GUIConf.h
+..\list\timer.o: ..\GUI\Core\GUIType.h
+..\list\timer.o: ..\GUI\Core\LCD.h
+..\list\timer.o: ..\GUI\Core\GUIVersion.h

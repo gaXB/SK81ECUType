@@ -1,0 +1,14 @@
+..\list\wmmemdev.o: ..\GUI\WM\WMMemDev.c
+..\list\wmmemdev.o: ..\GUI\WM\WM_Intern.h
+..\list\wmmemdev.o: ..\GUI\WM\WM.h
+..\list\wmmemdev.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\wmmemdev.o: ..\Config\GUIConf.h
+..\list\wmmemdev.o: ..\GUI\Core\GUIType.h
+..\list\wmmemdev.o: ..\GUI\Core\LCD.h
+..\list\wmmemdev.o: ..\GUI\WM\WM_GUI.h
+..\list\wmmemdev.o: ..\GUI\Core\GUI_Protected.h
+..\list\wmmemdev.o: ..\GUI\Core\GUI.h
+..\list\wmmemdev.o: ..\GUI\Core\GUIVersion.h
+..\list\wmmemdev.o: ..\GUI\Core\LCD_Protected.h
+..\list\wmmemdev.o: ..\GUI\Core\GUIDebug.h
+..\list\wmmemdev.o: ..\GUI\Core\GUI_X.h

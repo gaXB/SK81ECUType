@@ -1,0 +1,13 @@
+..\list\guidev_reduceysize.o: ..\GUI\MemDev\GUIDEV_ReduceYSize.c
+..\list\guidev_reduceysize.o: ..\GUI\Core\GUI_Protected.h
+..\list\guidev_reduceysize.o: ..\GUI\Core\GUI.h
+..\list\guidev_reduceysize.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\guidev_reduceysize.o: ..\Config\GUIConf.h
+..\list\guidev_reduceysize.o: ..\GUI\Core\GUIType.h
+..\list\guidev_reduceysize.o: ..\GUI\Core\LCD.h
+..\list\guidev_reduceysize.o: ..\GUI\Core\GUIVersion.h
+..\list\guidev_reduceysize.o: ..\GUI\Core\LCD_Protected.h
+..\list\guidev_reduceysize.o: ..\GUI\Core\GUIDebug.h
+..\list\guidev_reduceysize.o: ..\GUI\Core\GUI_X.h
+..\list\guidev_reduceysize.o: ..\GUI\WM\WM_GUI.h
+..\list\guidev_reduceysize.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

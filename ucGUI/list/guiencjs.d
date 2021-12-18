@@ -1,0 +1,13 @@
+..\list\guiencjs.o: ..\GUI\Core\GUIEncJS.c
+..\list\guiencjs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\list\guiencjs.o: ..\GUI\Core\GUI_Protected.h
+..\list\guiencjs.o: ..\GUI\Core\GUI.h
+..\list\guiencjs.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\guiencjs.o: ..\Config\GUIConf.h
+..\list\guiencjs.o: ..\GUI\Core\GUIType.h
+..\list\guiencjs.o: ..\GUI\Core\LCD.h
+..\list\guiencjs.o: ..\GUI\Core\GUIVersion.h
+..\list\guiencjs.o: ..\GUI\Core\LCD_Protected.h
+..\list\guiencjs.o: ..\GUI\Core\GUIDebug.h
+..\list\guiencjs.o: ..\GUI\Core\GUI_X.h
+..\list\guiencjs.o: ..\GUI\WM\WM_GUI.h

@@ -1,0 +1,12 @@
+..\list\gui_pen.o: ..\GUI\Core\GUI_Pen.c
+..\list\gui_pen.o: ..\GUI\Core\GUI_Protected.h
+..\list\gui_pen.o: ..\GUI\Core\GUI.h
+..\list\gui_pen.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\gui_pen.o: ..\Config\GUIConf.h
+..\list\gui_pen.o: ..\GUI\Core\GUIType.h
+..\list\gui_pen.o: ..\GUI\Core\LCD.h
+..\list\gui_pen.o: ..\GUI\Core\GUIVersion.h
+..\list\gui_pen.o: ..\GUI\Core\LCD_Protected.h
+..\list\gui_pen.o: ..\GUI\Core\GUIDebug.h
+..\list\gui_pen.o: ..\GUI\Core\GUI_X.h
+..\list\gui_pen.o: ..\GUI\WM\WM_GUI.h

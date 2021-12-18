@@ -1,0 +1,12 @@
+..\list\lcdinfo1.o: ..\GUI\Core\LCDInfo1.c
+..\list\lcdinfo1.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\list\lcdinfo1.o: ..\GUI\Core\LCD.h
+..\list\lcdinfo1.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\lcdinfo1.o: ..\Config\GUIConf.h
+..\list\lcdinfo1.o: ..\GUI\Core\LCD_Private.h
+..\list\lcdinfo1.o: ..\GUI\Core\LCD_ConfDefaults.h
+..\list\lcdinfo1.o: ..\Config\LCDConf.h
+..\list\lcdinfo1.o: ..\GUI\Core\LCD_Protected.h
+..\list\lcdinfo1.o: ..\GUI\Core\GUI.h
+..\list\lcdinfo1.o: ..\GUI\Core\GUIType.h
+..\list\lcdinfo1.o: ..\GUI\Core\GUIVersion.h

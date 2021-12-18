@@ -1,0 +1,11 @@
+..\list\lcdp0.o: ..\GUI\ConvertMono\LCDP0.c
+..\list\lcdp0.o: ..\GUI\Core\LCD_Private.h
+..\list\lcdp0.o: ..\GUI\Core\LCD_ConfDefaults.h
+..\list\lcdp0.o: ..\Config\LCDConf.h
+..\list\lcdp0.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\lcdp0.o: ..\Config\GUIConf.h
+..\list\lcdp0.o: ..\GUI\Core\LCD_Protected.h
+..\list\lcdp0.o: ..\GUI\Core\LCD.h
+..\list\lcdp0.o: ..\GUI\Core\GUI.h
+..\list\lcdp0.o: ..\GUI\Core\GUIType.h
+..\list\lcdp0.o: ..\GUI\Core\GUIVersion.h

@@ -1,0 +1,17 @@
+..\list\lcd_rotate180.o: ..\GUI\Core\LCD_Rotate180.c
+..\list\lcd_rotate180.o: ..\GUI\Core\GUI_Private.h
+..\list\lcd_rotate180.o: ..\GUI\Core\GUI_Protected.h
+..\list\lcd_rotate180.o: ..\GUI\Core\GUI.h
+..\list\lcd_rotate180.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\lcd_rotate180.o: ..\Config\GUIConf.h
+..\list\lcd_rotate180.o: ..\GUI\Core\GUIType.h
+..\list\lcd_rotate180.o: ..\GUI\Core\LCD.h
+..\list\lcd_rotate180.o: ..\GUI\Core\GUIVersion.h
+..\list\lcd_rotate180.o: ..\GUI\Core\LCD_Protected.h
+..\list\lcd_rotate180.o: ..\GUI\Core\GUIDebug.h
+..\list\lcd_rotate180.o: ..\GUI\Core\GUI_X.h
+..\list\lcd_rotate180.o: ..\GUI\WM\WM_GUI.h
+..\list\lcd_rotate180.o: ..\GUI\Core\LCD_Private.h
+..\list\lcd_rotate180.o: ..\GUI\Core\LCD_ConfDefaults.h
+..\list\lcd_rotate180.o: ..\Config\LCDConf.h
+..\list\lcd_rotate180.o: ..\GUI\WM\WM.h

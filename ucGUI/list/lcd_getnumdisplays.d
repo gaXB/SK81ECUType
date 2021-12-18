@@ -1,0 +1,12 @@
+..\list\lcd_getnumdisplays.o: ..\GUI\Core\LCD_GetNumDisplays.c
+..\list\lcd_getnumdisplays.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\list\lcd_getnumdisplays.o: ..\GUI\Core\LCD.h
+..\list\lcd_getnumdisplays.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\lcd_getnumdisplays.o: ..\Config\GUIConf.h
+..\list\lcd_getnumdisplays.o: ..\GUI\Core\LCD_Private.h
+..\list\lcd_getnumdisplays.o: ..\GUI\Core\LCD_ConfDefaults.h
+..\list\lcd_getnumdisplays.o: ..\Config\LCDConf.h
+..\list\lcd_getnumdisplays.o: ..\GUI\Core\LCD_Protected.h
+..\list\lcd_getnumdisplays.o: ..\GUI\Core\GUI.h
+..\list\lcd_getnumdisplays.o: ..\GUI\Core\GUIType.h
+..\list\lcd_getnumdisplays.o: ..\GUI\Core\GUIVersion.h

@@ -1,0 +1,12 @@
+..\list\guidev_auto.o: ..\GUI\MemDev\GUIDEV_Auto.c
+..\list\guidev_auto.o: ..\GUI\Core\GUI_Protected.h
+..\list\guidev_auto.o: ..\GUI\Core\GUI.h
+..\list\guidev_auto.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\guidev_auto.o: ..\Config\GUIConf.h
+..\list\guidev_auto.o: ..\GUI\Core\GUIType.h
+..\list\guidev_auto.o: ..\GUI\Core\LCD.h
+..\list\guidev_auto.o: ..\GUI\Core\GUIVersion.h
+..\list\guidev_auto.o: ..\GUI\Core\LCD_Protected.h
+..\list\guidev_auto.o: ..\GUI\Core\GUIDebug.h
+..\list\guidev_auto.o: ..\GUI\Core\GUI_X.h
+..\list\guidev_auto.o: ..\GUI\WM\WM_GUI.h

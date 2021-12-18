@@ -1,0 +1,16 @@
+..\list\guidev_xy2ptr.o: ..\GUI\MemDev\GUIDEV_XY2PTR.c
+..\list\guidev_xy2ptr.o: ..\GUI\Core\GUI_Private.h
+..\list\guidev_xy2ptr.o: ..\GUI\Core\GUI_Protected.h
+..\list\guidev_xy2ptr.o: ..\GUI\Core\GUI.h
+..\list\guidev_xy2ptr.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\guidev_xy2ptr.o: ..\Config\GUIConf.h
+..\list\guidev_xy2ptr.o: ..\GUI\Core\GUIType.h
+..\list\guidev_xy2ptr.o: ..\GUI\Core\LCD.h
+..\list\guidev_xy2ptr.o: ..\GUI\Core\GUIVersion.h
+..\list\guidev_xy2ptr.o: ..\GUI\Core\LCD_Protected.h
+..\list\guidev_xy2ptr.o: ..\GUI\Core\GUIDebug.h
+..\list\guidev_xy2ptr.o: ..\GUI\Core\GUI_X.h
+..\list\guidev_xy2ptr.o: ..\GUI\WM\WM_GUI.h
+..\list\guidev_xy2ptr.o: ..\GUI\Core\LCD_Private.h
+..\list\guidev_xy2ptr.o: ..\GUI\Core\LCD_ConfDefaults.h
+..\list\guidev_xy2ptr.o: ..\Config\LCDConf.h

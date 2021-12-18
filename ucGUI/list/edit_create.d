@@ -1,0 +1,9 @@
+..\list\edit_create.o: ..\GUI\Widget\EDIT_Create.c
+..\list\edit_create.o: ..\GUI\Widget\EDIT.h
+..\list\edit_create.o: ..\GUI\WM\WM.h
+..\list\edit_create.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\edit_create.o: ..\Config\GUIConf.h
+..\list\edit_create.o: ..\GUI\Core\GUIType.h
+..\list\edit_create.o: ..\GUI\Core\LCD.h
+..\list\edit_create.o: ..\GUI\WM\WM_GUI.h
+..\list\edit_create.o: ..\GUI\Widget\DIALOG_Intern.h

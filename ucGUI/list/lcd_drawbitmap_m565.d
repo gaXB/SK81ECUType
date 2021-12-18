@@ -1,0 +1,17 @@
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\LCD_DrawBitmap_M565.c
+..\list\lcd_drawbitmap_m565.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\GUI_Private.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\GUI_Protected.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\GUI.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\lcd_drawbitmap_m565.o: ..\Config\GUIConf.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\GUIType.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\LCD.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\GUIVersion.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\LCD_Protected.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\GUIDebug.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\GUI_X.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\WM\WM_GUI.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\LCD_Private.h
+..\list\lcd_drawbitmap_m565.o: ..\GUI\Core\LCD_ConfDefaults.h
+..\list\lcd_drawbitmap_m565.o: ..\Config\LCDConf.h

@@ -1,0 +1,9 @@
+..\list\f16_hk.o: ..\GUI\Font\F16_HK.c
+..\list\f16_hk.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\list\f16_hk.o: ..\GUI\Core\GUI_FontIntern.h
+..\list\f16_hk.o: ..\GUI\Core\GUI.h
+..\list\f16_hk.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\f16_hk.o: ..\Config\GUIConf.h
+..\list\f16_hk.o: ..\GUI\Core\GUIType.h
+..\list\f16_hk.o: ..\GUI\Core\LCD.h
+..\list\f16_hk.o: ..\GUI\Core\GUIVersion.h

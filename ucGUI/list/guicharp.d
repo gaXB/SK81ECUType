@@ -1,0 +1,17 @@
+..\list\guicharp.o: ..\GUI\Core\GUICharP.c
+..\list\guicharp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\list\guicharp.o: ..\GUI\Core\GUI_Private.h
+..\list\guicharp.o: ..\GUI\Core\GUI_Protected.h
+..\list\guicharp.o: ..\GUI\Core\GUI.h
+..\list\guicharp.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\guicharp.o: ..\Config\GUIConf.h
+..\list\guicharp.o: ..\GUI\Core\GUIType.h
+..\list\guicharp.o: ..\GUI\Core\LCD.h
+..\list\guicharp.o: ..\GUI\Core\GUIVersion.h
+..\list\guicharp.o: ..\GUI\Core\LCD_Protected.h
+..\list\guicharp.o: ..\GUI\Core\GUIDebug.h
+..\list\guicharp.o: ..\GUI\Core\GUI_X.h
+..\list\guicharp.o: ..\GUI\WM\WM_GUI.h
+..\list\guicharp.o: ..\GUI\Core\LCD_Private.h
+..\list\guicharp.o: ..\GUI\Core\LCD_ConfDefaults.h
+..\list\guicharp.o: ..\Config\LCDConf.h

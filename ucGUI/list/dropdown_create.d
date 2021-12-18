@@ -1,0 +1,9 @@
+..\list\dropdown_create.o: ..\GUI\Widget\DROPDOWN_Create.c
+..\list\dropdown_create.o: ..\GUI\Widget\DROPDOWN.h
+..\list\dropdown_create.o: ..\GUI\WM\WM.h
+..\list\dropdown_create.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\dropdown_create.o: ..\Config\GUIConf.h
+..\list\dropdown_create.o: ..\GUI\Core\GUIType.h
+..\list\dropdown_create.o: ..\GUI\Core\LCD.h
+..\list\dropdown_create.o: ..\GUI\WM\WM_GUI.h
+..\list\dropdown_create.o: ..\GUI\Widget\DIALOG_Intern.h

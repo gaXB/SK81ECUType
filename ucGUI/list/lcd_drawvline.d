@@ -1,0 +1,16 @@
+..\list\lcd_drawvline.o: ..\GUI\Core\LCD_DrawVLine.c
+..\list\lcd_drawvline.o: ..\GUI\Core\LCD_Private.h
+..\list\lcd_drawvline.o: ..\GUI\Core\LCD_ConfDefaults.h
+..\list\lcd_drawvline.o: ..\Config\LCDConf.h
+..\list\lcd_drawvline.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\lcd_drawvline.o: ..\Config\GUIConf.h
+..\list\lcd_drawvline.o: ..\GUI\Core\LCD_Protected.h
+..\list\lcd_drawvline.o: ..\GUI\Core\LCD.h
+..\list\lcd_drawvline.o: ..\GUI\Core\GUI.h
+..\list\lcd_drawvline.o: ..\GUI\Core\GUIType.h
+..\list\lcd_drawvline.o: ..\GUI\Core\GUIVersion.h
+..\list\lcd_drawvline.o: ..\GUI\Core\GUI_Private.h
+..\list\lcd_drawvline.o: ..\GUI\Core\GUI_Protected.h
+..\list\lcd_drawvline.o: ..\GUI\Core\GUIDebug.h
+..\list\lcd_drawvline.o: ..\GUI\Core\GUI_X.h
+..\list\lcd_drawvline.o: ..\GUI\WM\WM_GUI.h

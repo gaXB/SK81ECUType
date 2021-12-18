@@ -1,0 +1,9 @@
+..\list\framewin_createindirect.o: ..\GUI\Widget\FRAMEWIN_CreateIndirect.c
+..\list\framewin_createindirect.o: ..\GUI\Widget\FRAMEWIN.h
+..\list\framewin_createindirect.o: ..\GUI\WM\WM.h
+..\list\framewin_createindirect.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\framewin_createindirect.o: ..\Config\GUIConf.h
+..\list\framewin_createindirect.o: ..\GUI\Core\GUIType.h
+..\list\framewin_createindirect.o: ..\GUI\Core\LCD.h
+..\list\framewin_createindirect.o: ..\GUI\WM\WM_GUI.h
+..\list\framewin_createindirect.o: ..\GUI\Widget\DIALOG_Intern.h

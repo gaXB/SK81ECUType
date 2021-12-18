@@ -1,0 +1,14 @@
+..\list\wm_getfocussedwindow.o: ..\GUI\WM\WM_GetFocussedWindow.c
+..\list\wm_getfocussedwindow.o: ..\GUI\WM\WM_Intern.h
+..\list\wm_getfocussedwindow.o: ..\GUI\WM\WM.h
+..\list\wm_getfocussedwindow.o: ..\GUI\Core\GUI_ConfDefaults.h
+..\list\wm_getfocussedwindow.o: ..\Config\GUIConf.h
+..\list\wm_getfocussedwindow.o: ..\GUI\Core\GUIType.h
+..\list\wm_getfocussedwindow.o: ..\GUI\Core\LCD.h
+..\list\wm_getfocussedwindow.o: ..\GUI\WM\WM_GUI.h
+..\list\wm_getfocussedwindow.o: ..\GUI\Core\GUI_Protected.h
+..\list\wm_getfocussedwindow.o: ..\GUI\Core\GUI.h
+..\list\wm_getfocussedwindow.o: ..\GUI\Core\GUIVersion.h
+..\list\wm_getfocussedwindow.o: ..\GUI\Core\LCD_Protected.h
+..\list\wm_getfocussedwindow.o: ..\GUI\Core\GUIDebug.h
+..\list\wm_getfocussedwindow.o: ..\GUI\Core\GUI_X.h
